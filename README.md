@@ -8,7 +8,10 @@ In order to achieve the aforementioned ambition, the client is looking into cons
 a well-designed relational database and seamlessly integrating it to an analytical platform for a real time insight mining. 
 
 Objective: 
+
 •	Extract historical data, transform and load to a postgres SQL database using python.
+
 •	Design a relational database schema and implement it using postgres SQL.
+
 •	Connect the data to PowerBI Analytical platform, design a sales dashboard.
 
